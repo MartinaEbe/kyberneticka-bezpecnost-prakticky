@@ -1,26 +1,42 @@
 # Praktická kybernetická bezpečnost (CZ)
 
-Tento repozitář obsahuje praktické checklisty a materiály
-zaměřené na kybernetickou bezpečnost v reálné praxi.
+Tento repozitář obsahuje vybrané praktické checklisty
+a orientační materiály zaměřené na kybernetickou bezpečnost.
 
-Obsah je připravován v rámci projektu HelpKB
-a je určen především pro:
-- jednotlivce se zájmem o IT bezpečnost
-- malé a střední firmy
-- IT administrátory a technické pracovníky
+Obsah je připravován v rámci projektu HelpKB a slouží jako
+základní přehled témat, se kterými se jednotlivci a malé
+firmy v oblasti IT bezpečnosti nejčastěji setkávají.
+
+## Pro koho je tento repozitář
+- jednotlivci se zájmem o kybernetickou bezpečnost
+- malé a střední firmy (SME)
+- IT administrátoři a techničtí pracovníci
 
 ## Co zde najdete
-- Základní bezpečnostní checklisty
-- Doporučení pro ochranu dat
-- Praktické postupy bez zbytečné teorie
+- kontrolní checklisty bezpečnostních oblastí
+- přehled základních kroků a opatření
+- orientační postupy bez technických detailů
 
-## Účel repozitáře
-Cílem tohoto repozitáře je sdílet vybrané praktické materiály
-a rozšířit povědomí o kybernetické bezpečnosti v češtině.
+⚠️ Uvedené materiály **neobsahují detailní návody**
+ani konkrétní technická řešení. Slouží především k tomu,
+aby pomohly identifikovat rizika a správné otázky.
 
-## Kompletní e-book (CZ)
+## Jak s materiály pracovat
+Checklisty pomáhají:
+- ověřit, zda je daná oblast řešena
+- upozornit na možné slabiny
+- připravit se na další rozhodování
+
+Samy o sobě však **nenahrazují kompletní řešení**
+ani odborné vyhodnocení konkrétní situace.
+
+## Kompletní přehled a souvislosti
+Detailní vysvětlení jednotlivých témat, praktické příklady
+z reálné praxe, souvislosti mezi kroky a doporučené postupy
+jsou zpracovány v kompletním českém e-booku projektu HelpKB.
+
 👉 https://www.helpkb.cz/
 
-Na webu je k dispozici kompletní e-book,
-který nabízí ucelený pohled na problematiku
-kybernetické bezpečnosti.
+E-book nabízí ucelený pohled na kybernetickou bezpečnost
+a je určen pro ty, kteří chtějí problematice skutečně porozumět,
+nejen projít kontrolní seznam.
